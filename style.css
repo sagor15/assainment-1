@@ -30,6 +30,11 @@ body {
 .span1 {
   color: #0389f7;
 }
+.span2 {
+  margin-top: 54px;
+  display: inline-block;
+}
+
 .button {
   text-transform: capitalize;
   text-decoration: none;
@@ -39,6 +44,53 @@ body {
   color: white;
   text-align: center;
   display: inline-block;
-  margin-left: 91px;
-  margin-top: 55px;
+  /* margin-left: 0px; */
+  margin-top: 25px;
+}
+
+/* This is First Content css */
+.H-one {
+  font-size: 60px;
+  text-align: center;
+}
+.span3 {
+  color: #0389f7;
+}
+.image-all-illustrator {
+  width: 200px;
+  margin-left: 55px;
+}
+.main-div2 {
+  display: flex;
+  width: 90%;
+  margin: 0 auto;
+}
+.box-div {
+  margin-left: 10px;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+  box-shadow: 10px 10px 30px gray;
+  padding-left: 20px;
+  width: 30%;
+  height: 494px;
+  margin-left: 41px;
+  border-radius: 15px;
+}
+#first-box-div {
+  background-color: #e0ceee;
+}
+#second-box-div {
+  background-color: #a5d4ee;
+}
+#third-box-div {
+  background-color: #e7f8fb;
+}
+.H-four {
+  font-size: 22px;
+  font-weight: bold;
+  margin-left: 106px;
+}
+.firstcontent-p {
+  list-style: lower-alpha;
+  line-height: 28px;
+  line-break: auto;
 }
