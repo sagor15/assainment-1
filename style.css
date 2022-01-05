@@ -94,21 +94,27 @@ body {
   line-height: 28px;
   line-break: auto;
 }
+.second-section {
+}
 
-/* This is second contentm - css */
-.third-section {
+/* This is second content - css */
+.second-section {
   margin-top: 150px;
 }
 .second-div {
   display: flex;
   width: 80%;
   margin: 0 auto;
+  background-image: url(images/shapes/shape-1.png);
+  background-repeat: no-repeat;
+  background-position: left;
 }
 .second-div1 {
   width: 35%;
 }
 .second-div-img {
   width: 350px;
+  height: 382px;
 }
 .second-div2 {
   padding-left: 150px;
@@ -136,7 +142,7 @@ h3 {
 }
 .third-div-img {
   width: 350px;
-  margin-top: 20px;
+  margin-top: 0px;
   margin-left: 150px;
 }
 .third-div2 {
