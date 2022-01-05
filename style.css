@@ -1,3 +1,44 @@
-img{
-    width: 60%;
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Merriweather", serif;
+  font-family: "Poppins", sans-serif;
+  font-family: "Spline Sans", sans-serif;
+}
+/* header part css */
+.first-section {
+}
+.main-div {
+  display: flex;
+  padding-left: 6%;
+}
+.div1 {
+}
+.div1 img {
+  width: 76%;
+  padding-left: 86px;
+}
+.div1 h1 {
+  font-size: 50px;
+  border-left: 7px solid #b553fa;
+}
+.div1 p {
+  font-size: 18px;
+  line-height: 28px;
+  text-transform: capitalize;
+}
+.span1 {
+  color: #0389f7;
+}
+.button {
+  text-transform: capitalize;
+  text-decoration: none;
+  padding: 15px 55px;
+  background-image: linear-gradient(#a5d4ee, #11b1fb);
+  border-radius: 5px;
+  color: white;
+  text-align: center;
+  display: inline-block;
+  margin-left: 91px;
+  margin-top: 55px;
 }
