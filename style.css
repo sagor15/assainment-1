@@ -5,7 +5,7 @@ body {
   font-family: "Poppins", sans-serif;
   font-family: "Spline Sans", sans-serif;
 }
-/* header part css */
+/* header part - css */
 .first-section {
 }
 .main-div {
@@ -48,7 +48,7 @@ body {
   margin-top: 25px;
 }
 
-/* This is First Content css */
+/* This is First Content - css */
 .H-one {
   font-size: 60px;
   text-align: center;
@@ -93,4 +93,57 @@ body {
   list-style: lower-alpha;
   line-height: 28px;
   line-break: auto;
+}
+
+/* This is second contentm - css */
+.third-section {
+  margin-top: 150px;
+}
+.second-div {
+  display: flex;
+  width: 80%;
+  margin: 0 auto;
+}
+.second-div1 {
+  width: 35%;
+}
+.second-div-img {
+  width: 350px;
+}
+.second-div2 {
+  padding-left: 150px;
+}
+.second-p {
+  width: 500px;
+  font-size: 19px;
+  line-height: 24px;
+}
+h3 {
+  font-size: 40px;
+  width: 401px;
+}
+
+/* This is third content - css */
+.third-section {
+  margin-top: 150px;
+}
+.third-div {
+  display: flex;
+  width: 80%;
+  margin: 0 auto;
+}
+.third-div1 {
+}
+.third-div-img {
+  width: 350px;
+  margin-top: 20px;
+  margin-left: 150px;
+}
+.third-div2 {
+  width: 35%;
+}
+.third-p {
+  width: 500px;
+  font-size: 19px;
+  line-height: 24px;
 }
