@@ -38,7 +38,7 @@ body {
 .button {
   text-transform: capitalize;
   text-decoration: none;
-  padding: 15px 55px;
+  padding: 15px 105px;
   background-image: linear-gradient(#a5d4ee, #11b1fb);
   border-radius: 5px;
   color: white;
